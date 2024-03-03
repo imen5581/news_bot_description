@@ -14,7 +14,7 @@
 2. Postgres
 3. Airflow
 4. Сервер timeweb на линукс
-5. Docker swarm
+5. Docker swarm (Бот создан на микросервисной архитектуре)
 6. DWH на postgres
 7. spacy с предобученным датасетом векторных представлений русскоязычных слов
 8. Prometheus
